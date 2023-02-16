@@ -1,4 +1,5 @@
 ### Hi there 👋
+<br/>
 - 🔭 I’m currently working on building my portfolio.
 - 🌱 I’m currently learning Backend development.
 
