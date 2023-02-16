@@ -1,7 +1,6 @@
 ### Hi there 👋
-<br/>
-- 🔭 I’m currently working on building my portfolio.
-- 🌱 I’m currently learning Backend development.
+-- 🔭 I’m currently working on building my portfolio.
+-- 🌱 I’m currently learning Backend development.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="190px" margin="0 50 0 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annas03&hide=css&layout=compact&theme=radical" />
