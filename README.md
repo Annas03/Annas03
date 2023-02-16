@@ -2,7 +2,11 @@
 - 🔭 I’m currently working on building my portfolio.
 - 🌱 I’m currently learning Backend development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annas03&hide=css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Annas GitHub stats](https://github-readme-stats.vercel.app/api?username=Annas03&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annas03&hide=css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+![Annas GitHub stats](https://github-readme-stats.vercel.app/api?username=Annas03&show_icons=true&theme=radical)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Annas03)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Annas03/Annas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
