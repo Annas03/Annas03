@@ -6,7 +6,7 @@
 
 ![Annas GitHub stats](https://github-readme-stats.vercel.app/api?username=Annas03&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Annas03&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Annas03&repo=AI-Image-Generator)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Annas03/Annas03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
