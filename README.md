@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on building my portfolio.
 - 🌱 I’m currently learning Backend development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annas03&hide=css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Annas03)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annas03&hide=css&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Annas03 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Annas03)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Annas GitHub stats](https://github-readme-stats.vercel.app/api?username=Annas03&show_icons=true&theme=radical)
 
