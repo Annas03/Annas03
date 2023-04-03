@@ -5,7 +5,7 @@
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="400px" height="190px" margin="0 50 0 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annas03&hide=css&layout=compact&theme=radical" />
+  <img align="center" width="400px" height="250px" margin="0 50 0 0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annas03&hide=css&layout=compact&theme=radical" />
 </a>
 <a href="">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=Annas03&show_icons=true&theme=radical" />
