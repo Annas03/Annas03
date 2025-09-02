@@ -1,7 +1,6 @@
 ### Hi there 👋 It's Muhammad Annas
-- ⚡ I’m currently doing Bachelors in Computer Science.
-- 🔭 I’m currently working on building my portfolio.
-- 🌱 I’m learning Full Stack Development.
+- 🔭 I love learning new technologies.
+- 🌱 I love building AI powered Full Stack Applications.
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
