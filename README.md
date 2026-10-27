@@ -1,7 +1,6 @@
 ### Hi there 👋 It's Muhammad Annas
 - I love learning new technologies.
 - I love building AI powered Full Stack Applications.
-- I currently am Learning Backend Technologies, i.e NestJS, TypeORM
 
 ### Github Stats
 <a href="">
